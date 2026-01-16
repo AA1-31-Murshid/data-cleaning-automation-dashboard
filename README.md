@@ -1,5 +1,7 @@
 # 🚀 Enterprise Data Automation & Analytics Pipeline
 
+![Dashboard Preview](dashboard_preview.png)
+
 ### 🌟 Business Value
 Manual data cleaning costs companies hundreds of hours in lost productivity. This project demonstrates a **fully automated "Self-Service" pipeline** that transforms fragmented, messy CSV exports into a production-ready analytical dashboard. 
 
@@ -46,3 +48,4 @@ I developed a custom Python-based engine that performs:
    - Clone this repository.
    - Install dependencies: `pip install -r requirements.txt`
    - Run the app: `streamlit run app.py`
+
